@@ -1,0 +1,9 @@
+run testcases/basic_add.s
+    5  n
+    6  n
+    7  print *new_token
+    8  p val_a
+    9  p val_b
+   10  p head
+   11  p op
+   12  q

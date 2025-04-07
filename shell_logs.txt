@@ -1,0 +1,500 @@
+   14  runner -r ./traces/short1.rep
+   15  driver.py
+   16  make all
+   17  make all
+   18  runner -r ./traces/short1.rep
+   19  make all
+   20  runner -r ./traces/short1.rep
+   21  make all
+   22  runner -r ./traces/short1.rep
+   23  make all
+   24  runner -r ./traces/short1.rep
+   25  make all
+   26  runner -r ./traces/short1.rep
+   27  make all
+   28  runner -r ./traces/short1.rep
+   29  make all
+   30  runner -r ./traces/short1.rep
+   31  gdb runner
+   32  make all
+   33  make all
+   34  runner -r ./traces/short1.rep
+   35  make all
+   36  make all
+   37  runner -r ./traces/short1.rep
+   38  make all
+   39  runner -r ./traces/short1.rep
+   40  gdb runner
+   41  make all
+   42  runner -r ./traces/short1.rep
+   43  make all
+   44  runner -r ./traces/short1.rep
+   45  gdb runner
+   46  make all
+   47  runner -r ./traces/short1.rep
+   48  make all
+   49  runner -r ./traces/short1.rep
+   50  make all
+   51  runner -r ./traces/short1.rep
+   52  make all
+   53  runner -r ./traces/short1.rep
+   54  make all
+   55  runner -r ./traces/short1.rep
+   56  make all
+   57  runner -r ./traces/short1.rep
+   58  make all
+   59  runner -r ./traces/short1.rep
+   60  make all
+   61  runner -r ./traces/short1.rep
+   62  make all
+   63  runner -r ./traces/short1.rep
+   64  make all
+   65  runner -r ./traces/short1.rep
+   66  make all
+   67  runner -r ./traces/short1.rep
+   68  make all
+   69  runner -r ./traces/short1.rep
+   70  make all
+   71  runner -r ./traces/short1.rep
+   72  make all
+   73  runner -r ./traces/short1.rep
+   74  make all
+   75  runner -r ./traces/short1.rep
+   76  make all
+   77  runner -r ./traces/short1.rep
+   78  make all
+   79  runner -r ./traces/short1.rep
+   80  make all
+   81  runner -r ./traces/short1.rep
+   82  make all
+   83  runner -r ./traces/short1.rep
+   84  make all
+   85  runner -r ./traces/short1.rep
+   86  make all
+   87  runner -r ./traces/short1.rep
+   88  make all
+   89  runner -r ./traces/short1.rep
+   90  make all
+   91  runner -r ./traces/short1.rep
+   92  make all
+   93  runner -r ./traces/short1.rep
+   94  make all
+   95  runner -r ./traces/short1.rep
+   96  make all
+   97  runner -r ./traces/short1.rep
+   98  make all
+   99  runner -r ./traces/short1.rep
+  100  make all
+  101  runner -r ./traces/short1.rep
+  102  make all
+  103  runner -r ./traces/short1.rep
+  104  make all
+  105  runner -r ./traces/short1.rep
+  106  make all
+  107  runner -r ./traces/short1.rep
+  108  make all
+  109  runner -r ./traces/short1.rep
+  110  make al
+  111  make all
+  112  make all
+  113  runner -r ./traces/short1.rep
+  114  make all
+  115  make all
+  116  runner -r ./traces/short1.rep
+  117  make all
+  118  runner -r ./traces/short1.rep
+  119  make all
+  120  runner -r ./traces/short1.rep
+  121  make all
+  122  runner -r ./traces/short1.rep
+  123  make all
+  124  runner -r ./traces/short1.rep
+  125  make all
+  126  runner -r ./traces/short1.rep
+  127  make all
+  128  runner -r ./traces/short1.rep
+  129  make all
+  130  runner -r ./traces/short1.rep
+  131  make all
+  132  runner -r ./traces/short1.rep
+  133  make all
+  134  runner -r ./traces/short1.rep
+  135  make all
+  136  runner -r ./traces/short1.rep
+  137  make all
+  138  make all
+  139  runner -r ./traces/short1.rep
+  140  gdb runner
+  141  gdb runner
+  142  make all
+  143  runner -r ./traces/short1.rep
+  144  gdb runner
+  145  make all
+  146  runner -r ./traces/short1.rep
+  147  make all
+  148  runner -r ./traces/short1.rep
+  149  runner -r ./traces/short2.rep
+  150  runner -r ./traces/short1-bal.rep
+  151  runner -r ./traces/short2-bal.rep
+  152  driver.py
+  153  make all
+  154  runner -r ./traces/amptjp-bal.rep
+  155  runner -r ./traces/amptjp.rep
+  156  runner -r ./traces/binary.rep
+  157  driver.py
+  158  make all
+  159  runner -r ./traces/binary.rep
+  160  drivery.py
+  161  driver.py
+  162  git add .
+  163  git commit -m "very slow solution"
+  164  git push origin main
+  165  make all
+  166  driver.py
+  167  make all
+  168  runner ./traces/random.rep
+  169  runner -r ./traces/binary.rep
+  170  driver.py
+  171  runner -r ./traces/binary.rep
+  172  make all
+  173  driver.py
+  174  make all
+  175  driver.py
+  176  make all
+  177  driver.py
+  178  make all
+  179  runner -r ./traces/binary.rep
+  180  make all
+  181  runner -r ./traces/binary.rep
+  182  make all
+  183  runner -r ./traces/binary.rep
+  184  driver.py
+  185  make all
+  186  driver.py
+  187  make all
+  188  make all
+  189  driver.py
+  190  make all
+  191  driver.py
+  192  make all
+  193  driver.py
+  194  make all
+  195  driver.py
+  196  make all
+  197  driver.py
+  198  make all
+  199  driver.py
+  200  make all
+  201  driver.py
+  202  git add .
+  203  git commit -m "best-fit but slow throughput"
+  204  git push origin main
+  205  git commit -m "best-fit but slow throughput"
+  206  make all
+  207  driver.py
+  208  make all
+  209  make all
+  210  driver.py
+  211  make all
+  212  driver.py
+  213  make all
+  214  driver.py
+  215  git add .
+  216  git commit -m "only next coalescing"
+  217  git push origin main
+  218  make all
+  219  driver.py
+  220  make all
+  221  driver.py
+  222  make all
+  223  driver.py
+  224  runner -r ./traces/short1.rep
+  225  runner -r ./traces/random.rep
+  226  make all
+  227  runner -r ./traces/random.rep
+  228  make all
+  229  runner -r ./traces/random.rep
+  230  make all
+  231  driver.py
+  232  ./runner
+  233  ./runner -r
+  234  ./runner -r traces/coalescing.rep
+  235  gdb runner
+  236  bin/ci -i
+  237  bin/ci
+  238  exit
+  239  run ./testcases/week2/add.s
+  240  r ./testcases/week2/add.s
+  241  ./testcases/week2/add.s
+  242  -r ./testcases/week2/add.s
+  243  bin/ci -i ./testcases/week2/add.s
+  244  gdb bin/ci
+  245  make clean
+  246  make all
+  247  bin/ci -h
+  248  bin/ci -h
+  249  make debug
+  250  bin/ci -h
+  251  bin/ci --help
+  252  ./bin/ci
+  253  ./bin/ci -h
+  254  bin/ci
+  255  bin/ci
+  256  gdb bin/ci
+  257  gdb bin/ci
+  258  script shell.txt
+  259  exit
+  260  bin/ci -i testcases/week2/add.s
+  261  exit
+  262  gdb bin/ci
+  263  script shell.text
+  264  nano ~./bashrc
+  265  git clone git@github.com:CS429-SP2025/shared-repo-version-b-kBobbili220.git
+  266  make check
+  267  make clean
+  268  make tests
+  269  make check
+  270  make debug
+  271  gdb
+  272  ~/.gdbinit
+  273  cat ~./gdbinit
+  274  cat -h
+  275  cat --help
+  276  cat > ~./gdbinit
+  277  cat > gdbinit
+  278  ~./gdbinit
+  279  ./gdbinit
+  280  make check
+  281  gdb check
+  282  gdb calculator
+  283  gdb outputs
+  284  gdb mini_ci
+  285  make clean
+  286  make debug
+  287  make check
+  288  make tests
+  289  make clean
+  290  make debug
+  291  gdb mini_ci
+  292  make clean
+  293  make debug
+  294  gdb mini_ci
+  295  make clean
+  296  make debug
+  297  make check
+  298  gdb mini_ci
+  299  make clean
+  300  make debug
+  301  make check
+  302  amke clean
+  303  make debug
+  304  gdb mini_ci
+  305  gdb mini_ci
+  306  git add .
+  307  git commit -m "debugging"
+  308  git push origin main
+  309  git push
+  310  cd..
+  311  cd ..
+  312  ls
+  313  rm -rf shared-repo-version-b-kBobbili220
+  314  ls
+  315  git clone git@github.com:CS429-SP2025/se-lab-assemblers.git
+  316  exit
+  317  git fetch
+  318  git pull
+  319  ls .ssh
+  320  cd ~
+  321  ls .ssh
+  322  cd .ssh
+  323  ls -a
+  324  nano authorized_keys
+  325  rm id_rsa
+  326  rm id_rsa.pub 
+  327  ls -a
+  328  git fetch
+  329  ls -a
+  330  ls .git
+  331  cd ../
+  332  s -a
+  333  ls -a
+  334  rm -rf se-lab-assemblers/
+  335  git clone https://github.com/CS429-SP2025/se-lab-assemblers
+  336  make clean
+  337  make
+  338  make clean
+  339  make
+  340  make clean
+  341  make
+  342  make clean
+  343  make
+  344  make clean
+  345  make
+  346  make clean
+  347  make
+  348  make clean
+  349  make
+  350  make clean
+  351  make
+  352  make
+  353  make clean
+  354  make
+  355  git config pull.rebase false
+  356  bin/test -hw -i testcases/hw_elts/regfile_hw
+  357  bin/test -hw -i testcases/hw_elts/regfile_hw.tb
+  358  bin/test -hw 
+  359  bin/test -hw
+  360  make clean
+  361  make
+  362  bin/test -hw
+  363  make clean
+  364  maek
+  365  make
+  366  bin/test -hw
+  367  bin/test-hw
+  368  bin/test-hw -i testcases/hw_elts/ec_hw
+  369  bin -i testcases/hw_elts/ec_hw
+  370  bin/test-hw -i testcases/hw_elts/ec_hw
+  371  make clean
+  372  make
+  373  make
+  374  bin/test-hw
+  375  make clean
+  376  make
+  377  bin/test-hw
+  378  make clean
+  379  make
+  380  bin/test-hw
+  381  make
+  382  bin/test-hw
+  383  make
+  384  bin/test-hw
+  385  make
+  386  bin/test-hw
+  387  make clean
+  388  make
+  389  bin/test-hw
+  390  make clean
+  391  make
+  392  bin/test-hw
+  393  bin/test-hw -v2
+  394  make clean
+  395  make
+  396  bin/test-hw
+  397  bin/test-hw -v2
+  398  make clean
+  399  make
+  400  bin/test-hw -v2
+  401  bin/test-hw
+  402  make
+  403  bin/test-hw
+  404  bin/test-hw -v2
+  405  make
+  406  bin/test-hw -v2
+  407  make
+  408  bin/test-hw -v2
+  409  make clean
+  410  make
+  411  bin/test-hw -v2
+  412  touch ./~gdbinit
+  413  touch ~/.gdbinit
+  414  echo "set history save on" > ~/.gdbinit
+  415  cat ~/.gdbinit
+  416  git clone git@github.com:CS429-SP2025/mastery-version-f.git
+  417  git clone git@github.com:kBobbili220/mastery-version-f.git
+  418  quit
+  419  escap
+  420  exit
+  421  exit
+  422  git clone git@github.com:kBobbili220/mastery-version-f.git
+  423  git clone git@github.com:kBobbili220/mastery-version-h.git
+  424  touch ~/.gdbinit
+  425  echo "set history save on" > ~/.gdbinit
+  426  cat ~/.gdbinit
+  427  git clone git@github.com:kBobbili220/mastery-version-f.git
+  428  ls ~/.ssh
+  429  ssh-keygen -t ed25519 -C "karthikk.bobbili@gmail.com"
+  430  eval "$(ssh-agent -s)"
+  431  ssh-add ~/.ssh/id_ed25519
+  432  cat ~/.ssh/id_ed25519.pub
+  433  ssh -T git@github.com
+  434  git clone git@github.com:kBobbili220/mastery-version-f.git
+  435  ls
+  436  ls -a
+  437  cat ~/.gdbinit
+  438  make clean
+  439  make comp
+  440  make check
+  441  run testcases/short1.rep
+  442  bin/a.out
+  443  bin/a.out -t short1.rep
+  444  bin/a.out -t testcases/short1.rep
+  445  gdb bin/a.out
+  446  make debug
+  447  make clean
+  448  make debug
+  449  gdb bin/a.out
+  450  make
+  451  make check
+  452  make comp
+  453  bin/a.out -t testcases/short1.rep
+  454  outputs/ref.out
+  455  run outputs/ref.out
+  456  outputs/short1.ref.out
+  457  outputs/short1ref.out
+  458  outputs/short1.rep.ref
+  459  bin/a.out -t testcases/short1.rep
+  460  ref.out
+  461  ref.out -t testcases/short1.rep
+  462  make
+  463  bin/a.out -t testcases/short1.rep
+  464  make
+  465  bin/a.out -t testcases/short1.rep
+  466  make debug
+  467  make clean
+  468  make debug
+  469  gdb bin/a.out
+  470  make
+  471  make check
+  472  make check
+  473  MAKE
+  474  make
+  475  make clean
+  476  make debug
+  477  make
+  478  bin/a.out -t testcases/short1.rep
+  479  make check
+  480  make clean
+  481  make debug
+  482  gdb bin/a.out
+  483  history > shell_logs.txt
+  484  cat shell_logs.txt
+  485  gdb
+  486  touch gdb_logs.txt
+  487  git add .
+  488  git commit -m "yay"
+  489  git push origin main
+  490  git branch
+  491  git push origin master
+  492  touch ~/.gdbinit
+  493  echo "set history save on" > ~/.gdbinit
+  494  cat ~/.gdbinit
+  495  git clone git@github.com:kBobbili220/mastery-version-h.git
+  496  git clone git@github.com:kBobbili220/mastery-version-f.git
+  497  git clone git@github.com:kBobbili220/mastery-version-e.git
+  498  touch ~/.gdbinit
+  499  echo "set history save on" > ~/.gdbinit
+  500  cat ~/.gdbinit
+  501  ls -a
+  502  ls
+  503  cat ~/.gdbinit
+  504  make clean
+  505  make debug
+  506  mini_ci
+  507  mini_ci basic_add.s
+  508  mini_ci testcases/basic_add.s
+  509  gdb mini_ci
+  510  make clean
+  511  make
+  512  make check
+  513  history > shell_logs.txt
